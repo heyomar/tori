@@ -10,6 +10,8 @@ import Tori from './components/Tori.vue'
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin-top: 60px;
+	background-image: url('assets/art_samurai-bebop.png');
+	height: 100vh;
+	background-size: cover;
 }
 </style>
